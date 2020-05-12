@@ -1,0 +1,5 @@
+2020-05-13.00:08:11 INFO  [restartedMain] com.soft1851.springboot.jpa.SpringBootJpaApplication.logStarting:55  Starting SpringBootJpaApplication on BeliveYourself with PID 30140 (F:\IDEASpace\spring-boot-review\spring-boot-jpa\target\classes started by xunmi in F:\IDEASpace\spring-boot-review)
+2020-05-13.00:08:11 INFO  [restartedMain] com.soft1851.springboot.jpa.SpringBootJpaApplication.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:16:43 INFO  [restartedMain] com.soft1851.springboot.jpa.SpringBootJpaApplication.logStarting:55  Starting SpringBootJpaApplication on BeliveYourself with PID 25468 (F:\IDEASpace\spring-boot-review\spring-boot-jpa\target\classes started by xunmi in F:\IDEASpace\spring-boot-review)
+2020-05-13.00:16:43 INFO  [restartedMain] com.soft1851.springboot.jpa.SpringBootJpaApplication.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:16:49 INFO  [restartedMain] com.soft1851.springboot.jpa.SpringBootJpaApplication.logStarted:61  Started SpringBootJpaApplication in 6.835 seconds (JVM running for 9.372)

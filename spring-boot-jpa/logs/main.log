@@ -1,0 +1,19 @@
+2020-05-13.00:08:54 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 20856 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:08:54 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:10:19 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 22716 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:10:19 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:10:28 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarted:61  Started UserPlusRepositoryTest in 9.8 seconds (JVM running for 11.589)
+2020-05-13.00:11:14 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 27324 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:11:14 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:11:24 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarted:61  Started UserPlusRepositoryTest in 10.71 seconds (JVM running for 12.52)
+2020-05-13.00:12:49 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 20236 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:12:49 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:13:01 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 27528 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:13:01 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:13:10 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarted:61  Started UserPlusRepositoryTest in 10.002 seconds (JVM running for 11.769)
+2020-05-13.00:18:21 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 29244 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:18:21 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:18:33 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarted:61  Started UserPlusRepositoryTest in 13.192 seconds (JVM running for 15.467)
+2020-05-13.00:18:57 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarting:55  Starting UserPlusRepositoryTest on BeliveYourself with PID 24696 (started by xunmi in F:\IDEASpace\spring-boot-review\spring-boot-jpa)
+2020-05-13.00:18:57 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStartupProfileInfo:655  The following profiles are active: dev
+2020-05-13.00:19:10 INFO  [main] com.soft1851.springboot.jpa.dao.UserPlusRepositoryTest.logStarted:61  Started UserPlusRepositoryTest in 13.814 seconds (JVM running for 16.207)
