@@ -24,6 +24,6 @@ public class AsyncTaskController {
     @RequestMapping("/asyncTask")
     public String asyncTask() {
         asyncTaskService.asyncTask();
-        return "测试异步任务...";
+        return "邮件发送成功";
     }
 }

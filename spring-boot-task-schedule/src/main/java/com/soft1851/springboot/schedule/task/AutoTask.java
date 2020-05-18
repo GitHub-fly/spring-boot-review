@@ -26,7 +26,7 @@ import static java.util.concurrent.Executors.*;
  * @Version 1.0
  **/
 @Slf4j
-@Configuration
+//@Configuration
 public class AutoTask implements SchedulingConfigurer {
 
     @Resource

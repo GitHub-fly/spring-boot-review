@@ -22,7 +22,7 @@ import java.util.Map;
  * @Version 1.0
  **/
 @Slf4j
-@Component
+//@Component
 public class BirthdayTask {
     @Resource
     private UserRepository userRepository;
@@ -36,7 +36,7 @@ public class BirthdayTask {
      * 每天凌晨执行
      * @throws Exception
      */
-    @Scheduled(cron ="0 0 0 * * ?")
+    @Scheduled(cron ="0/2 * * * * ?")
     private void process() throws  Exception{
         List<UserMail> userList = userRepository.findUsersByBirthday();
 

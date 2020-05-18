@@ -1,5 +1,8 @@
 server:
   port: 8080
+  trustedPathPrefix: /internal/
+  trustedPort: 8888
+
 spring:
   mail:
     host: smtp.qq.com
@@ -11,6 +14,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
+    #    password: ENC(aZefON6YucZcoel3KsMkQA==)
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
@@ -20,3 +24,8 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     hibernate:
       ddl-auto: update
+
+jasypt:
+  encryptor:
+    #这里可以理解成是加解密的时候使用的密钥
+    password: xunxunmi
