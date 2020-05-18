@@ -1,4 +1,4 @@
-package com.soft1851.springboot.schedule.task;
+package com.soft1851.springboot.schedule.job;
 
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.lang.Console;
@@ -8,13 +8,12 @@ import org.quartz.JobExecutionException;
 
 /**
  * @author xunmi
- * @ClassName TestJobn
+ * @ClassName TestJob
  * @Description TODO
  * @Date 2020/5/18
  * @Version 1.0
  **/
 public class TestJob implements Job {
-
     @Override
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
         Console.log("当前时间：{}", DateUtil.now());
